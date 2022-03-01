@@ -4,8 +4,8 @@ This page explains some of the industry terms employed by Cura. Cura is not alwa
 
 * **Layer adattativi:** Tecnica capace di variare l'altezza dei layer durante la stampa per ridurre la visibilità degli strati, mantenendo una velocità di stampa ragionevolmente veloce.
 * **Aliasing:** Errore di stampa dove il limite della risoluzione degli stepper risulta visibile nella parte esterna della stampa
-* **Maglia Anti-overhang:** Un modello che impedirà la generazione del supporto per sostenere qualsiasi sporgenza con cui il modello si sovrappone. Sinonimo di "support blocker".
-* **Cordone:** Un filo di materiale dopo che è stato posato dal carrello-estrusore. Il termine "cordone" è usato nella scienza in cui è importante considerare la forma effettiva del tratto di filamento dopo che è stato solidificato. Simile a "linea".
+* **Anti-overhang mesh:** (Reticolo anti-sbalzo) Modello che impedirà la generazione del supporto per sostenere qualsiasi sporgenza con cui il modello si sovrappone. Sinonimo di "support blocker".
+* **Bead:** (Cordone) Un filo di materiale dopo che è stato posato dal carrello-estrusore. Il termine "cordone" è usato nella scienza in cui è importante considerare la forma effettiva del tratto di filamento dopo che è stato solidificato. Simile a "linea".
 * **Blob:** Un punto di materiale in eccesso all'esterno della stampa.
 * **Tubo Bowden:** Un tubo flessibile e vuoto, utilizzato per guidare il filamento attraverso il carrello-estrusore.
 * **Bridging:** Tecnica per stampare linee sospese a mezz'aria, stirando linee dritte tra due punti. Cura è in grado di aggiustare i parametri dei tratti sospesi e correggerà la direzione di alcune linee per creare ponti.
